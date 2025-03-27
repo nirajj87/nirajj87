@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hi, I'm Niraj Kumar Singh! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=Senior+PHP+%26+React+Developer;10%2B+Years+of+Experience;Building+Scalable+%26+High-Performance+Apps;Expert+in+Laravel%2C+CodeIgniter%2C+React.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=Senior+PHP+%26+React+Developer;10%2B+Years+of+Experience;Building+Scalable+%26+High-Performance+Apps;Expert+in+Laravel%2C+CodeIgniter%2C+React.js" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -34,6 +34,9 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)  
 
 ---
 
@@ -47,6 +50,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirajkrsingh&theme=dark" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajkrsingh&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 ---
 
 ## 🌟 **Notable Projects**  
@@ -55,6 +62,8 @@
 🔹 **React-based CRM** – Built a scalable CRM improving customer engagement by 25%.  
 🔹 **E-commerce Solutions** – Created feature-rich platforms increasing client sales by 30%.  
 🔹 **OTT Platform Development** – Designed a streaming service handling **10,000+ concurrent users**.  
+🔹 **Job Portal System** – Built an advanced job portal with AI-based resume matching.  
+🔹 **Real-time Chat Application** – Developed a scalable chat system with WebSockets & Redis.  
 
 ---
 
@@ -63,12 +72,15 @@
 🧑‍💻 **Senior PHP & React Developer** – *Jiffy Software Solutions Pvt Ltd* (2020 – Present)  
 - Led development of large-scale web applications using Laravel & React.js.  
 - Integrated multiple payment gateways and optimized databases.  
+- Worked on microservices architecture and scalable REST APIs.  
 
 🛠 **Full-Stack Developer** – *Tecziq Solutions, Kairosmarcom, Techmobia Digital Solutions* (2016 – 2020)  
 - Developed scalable CMS & eCommerce platforms.  
+- Built interactive dashboards using React.js & Vue.js.  
 
 👨‍💻 **PHP Developer** – *Intra-Planet Mobile Solutions Pvt Ltd* (2013 – 2016)  
 - Built dynamic web applications with performance & security optimizations.  
+- Developed multiple RESTful APIs for mobile & web applications.  
 
 ---
 
@@ -76,13 +88,26 @@
 
 🎓 **BCA (Bachelor of Computer Applications)** – J.P. University, Chhapra  
 📜 **Laravel Advanced Development | React.js Frontend | AWS Fundamentals**  
+📜 **Microservices Architecture | Database Optimization | DevOps Essentials**  
+
+---
+
+## 🏆 **Achievements & Contributions**  
+
+🏅 **Open Source Contributor** – Contributed to Laravel & React-based repositories.  
+🚀 **Hackathon Winner** – Won multiple coding challenges & hackathons.  
+💡 **Mentorship** – Actively mentoring junior developers & conducting webinars.  
 
 ---
 
 ## 📬 **Let's Connect!**  
 
-🌐 [Portfolio Website](#)  
-💼 [LinkedIn](https://www.linkedin.com/in/niraj-kumar-singh-1309b3a6/)  
+🌐 **[Portfolio Website](#)**  
+💼 **[LinkedIn](https://www.linkedin.com/in/niraj-kumar-singh-1309b3a6/)**  
 📧 **Email:** nirajkumar11288@gmail.com  
+🐦 **[Twitter](https://twitter.com/nirajkrsingh)**  
+🚀 **[Dev.to Blog](https://dev.to/nirajkrsingh)**  
 
-✨ **"Passionate about building scalable, high-performance applications & pushing the limits of web development!"** 🚀  
+---
+
+✨ **"Passionate about building scalable, high-performance applications & pushing the limits of web development!"** 🚀
