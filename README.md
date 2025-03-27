@@ -14,7 +14,9 @@
     <img src="https://img.shields.io/badge/Email-nirajkumar11288%40gmail.com-red?style=flat&logo=gmail" alt="Email Badge" />
   </a>
 </p>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7A41D&size=22&width=600&lines=🚀+Senior+PHP+%26+React+Developer;🔥+10%2B+Years+Experience;💡+Laravel+%7C+CodeIgniter+%7C+React.js+Expert;🌍+Based+in+Delhi%2C+India)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7A41D&size=22&width=600&lines=🚀+Senior+PHP+%26+React+Developer;🔥+10%2B+Years+Experience;💡+Laravel+%7C+CodeIgniter+%7C+React.js+Expert;🌍+Based+in+Delhi%2C+India" alt="Typing SVG" />
+</p>
 
 I specialize in crafting **high-performance web applications** using **Core PHP, Laravel, CodeIgniter, and React.js**. Over the years, I've built scalable insurance platforms, integrated advanced search & caching solutions, and optimized system performance for seamless user experiences.
 
