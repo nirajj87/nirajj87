@@ -1,9 +1,8 @@
-<h1 align="center">🚀 Hi, I'm Niraj Kumar Singh! 👋</h1>
+# 👋 Hi, I'm Niraj Kumar Singh!
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=Senior+PHP+%26+React+Developer;10%2B+Years+of+Experience;Building+Scalable+%26+High-Performance+Apps;Expert+in+Laravel%2C+CodeIgniter%2C+React.js" alt="Typing SVG" />
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/58190532?v=4" width="160" height="160" style="border-radius: 50%; margin-right: 20px;" align="left" />
 </p>
-
 <p align="center">
   <a href="https://github.com/nirajkrsingh">
     <img src="https://img.shields.io/github/followers/nirajkrsingh?style=social" alt="GitHub Followers" />
@@ -15,99 +14,53 @@
     <img src="https://img.shields.io/badge/Email-nirajkumar11288%40gmail.com-red?style=flat&logo=gmail" alt="Email Badge" />
   </a>
 </p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7A41D&size=22&width=600&lines=🚀+Senior+PHP+%26+React+Developer;🔥+10%2B+Years+Experience;💡+Laravel+%7C+CodeIgniter+%7C+React.js+Expert;🌍+Based+in+Delhi%2C+India)
+
+I specialize in crafting **high-performance web applications** using **Core PHP, Laravel, CodeIgniter, and React.js**. Over the years, I've built scalable insurance platforms, integrated advanced search & caching solutions, and optimized system performance for seamless user experiences.
 
 ---
 
-## 🛠 **Tech Stack & Expertise**  
+## 🛠 Tech Stack & Expertise  
 
-### **Backend**  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)  
-
-### **Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)  
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-
-### **DevOps & Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)  
+🔹 **Backend:** PHP (Laravel, CodeIgniter), Node.js, MySQL, PostgreSQL, MongoDB  
+🔹 **Frontend:** React.js, Vue.js (Basic), HTML, CSS, Bootstrap, jQuery, AJAX  
+🔹 **DevOps & Tools:** Git, GitHub, CI/CD, Docker, Cloud Hosting  
+🔹 **Advanced Solutions:** Payment Gateways (Stripe, Razorpay, Bill Desk), Redis, Elasticsearch, PWA  
 
 ---
 
-## 📊 **GitHub Stats & Activity**  
+## 🏆 Key Projects  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirajkrsingh&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirajkrsingh&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajkrsingh&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+✅ **[InsuranceAdvisor.com](#)** – Commercial insurance platform for seamless quotes.  
+✅ **React-based CRM** – Scalable CRM improving customer engagement by **25%**.  
+✅ **E-commerce Solutions** – Feature-rich platforms increasing sales by **30%**.  
+✅ **OTT Platform Development** – Streaming service handling **10,000+ users**.  
 
 ---
 
-## 🌟 **Notable Projects**  
+## 📌 Work Experience  
 
-🔹 **[InsuranceAdvisor.com](#)** – Developed a commercial insurance platform optimizing quote accessibility.  
-🔹 **React-based CRM** – Built a scalable CRM improving customer engagement by 25%.  
-🔹 **E-commerce Solutions** – Created feature-rich platforms increasing client sales by 30%.  
-🔹 **OTT Platform Development** – Designed a streaming service handling **10,000+ concurrent users**.  
-🔹 **Job Portal System** – Built an advanced job portal with AI-based resume matching.  
-🔹 **Real-time Chat Application** – Developed a scalable chat system with WebSockets & Redis.  
+### **Jiffy Software Solutions Pvt Ltd** (2020 – Present)  
+- Led development on **large-scale web applications** using Laravel & React.js.  
+- Integrated **multiple payment gateways** and optimized performance.  
+- Reduced response time by **40%** via query optimization.  
 
----
+### **Tecziq Solutions | Kairosmarcom | Techmobia Digital Solutions** (2016 – 2020)  
+- Developed scalable **CMS & eCommerce** platforms.  
+- Enhanced **UI/UX** and implemented **security best practices**.  
 
-## 🎯 **Work Experience**  
-
-🧑‍💻 **Senior PHP & React Developer** – *Jiffy Software Solutions Pvt Ltd* (2020 – Present)  
-- Led development of large-scale web applications using Laravel & React.js.  
-- Integrated multiple payment gateways and optimized databases.  
-- Worked on microservices architecture and scalable REST APIs.  
-
-🛠 **Full-Stack Developer** – *Tecziq Solutions, Kairosmarcom, Techmobia Digital Solutions* (2016 – 2020)  
-- Developed scalable CMS & eCommerce platforms.  
-- Built interactive dashboards using React.js & Vue.js.  
-
-👨‍💻 **PHP Developer** – *Intra-Planet Mobile Solutions Pvt Ltd* (2013 – 2016)  
-- Built dynamic web applications with performance & security optimizations.  
-- Developed multiple RESTful APIs for mobile & web applications.  
+### **Intra-Planet Mobile Solutions Pvt Ltd** (2013 – 2016)  
+- Built **dynamic web applications** focusing on performance & user experience.  
 
 ---
 
-## 📚 **Certifications & Education**  
-
+## 🎯 Certifications & Education  
 🎓 **BCA (Bachelor of Computer Applications)** – J.P. University, Chhapra  
 📜 **Laravel Advanced Development | React.js Frontend | AWS Fundamentals**  
-📜 **Microservices Architecture | Database Optimization | DevOps Essentials**  
 
 ---
 
-## 🏆 **Achievements & Contributions**  
+## 🔗 Let's Connect  
+💼 [LinkedIn](https://www.linkedin.com/in/niraj-kumar-singh-1309b3a6/) | 📧 nirajkumar11288@gmail.com  
 
-🏅 **Open Source Contributor** – Contributed to Laravel & React-based repositories.  
-🚀 **Hackathon Winner** – Won multiple coding challenges & hackathons.  
-💡 **Mentorship** – Actively mentoring junior developers & conducting webinars.  
-
----
-
-## 📬 **Let's Connect!**  
-
-🌐 **[Portfolio Website](#)**  
-💼 **[LinkedIn](https://www.linkedin.com/in/niraj-kumar-singh-1309b3a6/)**  
-📧 **Email:** nirajkumar11288@gmail.com  
-🐦 **[Twitter](https://twitter.com/nirajkrsingh)**  
-🚀 **[Dev.to Blog](https://dev.to/nirajkrsingh)**  
-
----
-
-✨ **"Passionate about building scalable, high-performance applications & pushing the limits of web development!"** 🚀
+🔥 Passionate about **building innovative solutions** & pushing the limits of web development! 🚀
